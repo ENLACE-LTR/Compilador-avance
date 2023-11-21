@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\bin\Debug\net6.0\DosLenguajes.exe
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\bin\Debug\net6.0\DosLenguajes.deps.json
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\bin\Debug\net6.0\DosLenguajes.runtimeconfig.json
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\bin\Debug\net6.0\DosLenguajes.dll
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\bin\Debug\net6.0\DosLenguajes.pdb
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\obj\Debug\net6.0\DosLenguajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\obj\Debug\net6.0\DosLenguajes.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\obj\Debug\net6.0\DosLenguajes.AssemblyInfo.cs
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\obj\Debug\net6.0\DosLenguajes.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\obj\Debug\net6.0\DosLenguajes.dll
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\obj\Debug\net6.0\refint\DosLenguajes.dll
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\obj\Debug\net6.0\DosLenguajes.pdb
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\obj\Debug\net6.0\DosLenguajes.genruntimeconfig.cache
+C:\Users\USER\Desktop\Trabajos\Githubwork\Tetris\DosLenguajes\DosLenguajes\obj\Debug\net6.0\ref\DosLenguajes.dll
